@@ -4,7 +4,7 @@ CRUD operations on a simple relational Database.
 
 ### Database Tables
 
-You can find the queries to create the required tables inside the `DB` folder.
+You can find the queries to create the required tables inside the `DB` folder and change the required credentials based on your MySQL on your device in the `connection.js` file to connect with the database successfully.
 
 ### API Documentation
 
